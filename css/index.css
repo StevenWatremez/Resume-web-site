@@ -9,7 +9,9 @@
 */
 /*CSS Youcode pour le fichier index.html*/
 .index_youcodeLogo{
-    height: 50px;
+    height: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .index_construction{
@@ -30,6 +32,18 @@
   -moz-animation: fadeInUp 1.5s;
   -o-animation: fadeInUp 1.5s;
   -ms-animation: fadeInUp 1.5s;
+}
+
+.width_link_on_mobile {
+    width: 100%;
+}
+/******************************************************************
+                        INDEX.HTML
+******************************************************************/
+
+.icon_style {
+    width: 100%;
+    text-align: center;
 }
 
 /*
