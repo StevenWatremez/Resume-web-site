@@ -83,6 +83,17 @@ body {
     transform: rotate(180deg);
 }
 
+.social_logo {
+    width: 50px;
+}
+
+svg {
+    fill: red;
+}
+
+/******************************************************************
+                        LEVEL 2
+******************************************************************/
 .margin-top-bottom-50 {
     margin-top: 100px;
     margin-bottom: 100px;
